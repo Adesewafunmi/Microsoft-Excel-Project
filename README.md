@@ -10,5 +10,6 @@ This dashboard contains interactive charts and graphs.
 These interactive visuallizations allow users to gain valuable insights from the data.
 This dashboard allows users to easily filter and slice data using desired parameters.
 #### Data Visualization
+
 This data was visualized using Microsoft Excel.
 ![Screenshot 2023-07-07 145646](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/e13d895d-b738-49d3-9643-2b0644e62471)
