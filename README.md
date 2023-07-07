@@ -16,5 +16,6 @@ This data was visualized using Microsoft Excel.
 
 
 ###### Insights
+
 The sales trend shows that September and October are the best month for the business.Hence, more effort should be put in place in ensuring adequate product availability and improved logistics during these months.The most productive Sales Rep is Mike while Nicole is the least productive.Hence, Mike should be considered indispensable for the company's restructuring and lay off plan.The products (Quad and Bellen) have consistently generated the highest revenue from 2015-2017.The western region generated the highest revenue with 43% of the total sales.
 
