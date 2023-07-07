@@ -12,7 +12,7 @@ This dashboard allows users to easily filter and slice data using desired parame
 #### Data Visualization
 
 This data was visualized using Microsoft Excel.
-#####![gitubexcell](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/bce0e508-6e16-49ca-ac24-e1de4aa974c1)
+##### ![gitubexcell](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/bce0e508-6e16-49ca-ac24-e1de4aa974c1)
 
 
 ###### Insights
