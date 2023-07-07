@@ -12,4 +12,14 @@ This dashboard allows users to easily filter and slice data using desired parame
 #### Data Visualization
 
 This data was visualized using Microsoft Excel.
-![Screenshot 2023-07-07 145646](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/e13d895d-b738-49d3-9643-2b0644e62471)
+#####![gitubexcell](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/bce0e508-6e16-49ca-ac24-e1de4aa974c1)
+
+
+###### Insights
+
+Insights from the data shows that Nicole is the least productive sales rep, Hence she should take more courses on marketing and customer relations.If Nicole improves after taking these courses ,it would in turn boost sales revenue.Julie should also be awarded and promoted as this will create healthy competion amongst the sales rep making everyone to strive better. This will  in turn boost revenue.
+
+Also, survey could be carried out to know why (*sunbell) has extremely low sales.Could it be that consumers no longer like the brand?Should the  brand be replaced with other fast rising brands?Could it be that sales reps do not have enough knowledge about the product? If the cause of the low sales is fixed through this survey ,it will in turn improve Revenue
+
+In Addition,the analysis shows the trend of low sales from January to July, Can the marketing team do more adverts at this time?, Can we have discount sales during this period?
+![image](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/332853c9-43d6-4e08-aec1-2f1271507581)
