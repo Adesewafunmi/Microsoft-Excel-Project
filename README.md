@@ -4,7 +4,7 @@
 
 
 ## Introduction
-This repository contains an Excel interactive dashboard showcasing visualization and insights of Bengo Manufaturing sales data for 2015-2017.The analysis was carried out to determine the trends and make data driven decisions to improve sales.
+This repository contains an Excel interactive dashboard showcasing visualization and insights of Bengo Manufaturing sales data for 2015-2017.The analysis was carried out to make data driven decisions to improve sales and also get insights for the company restructuring and lay off plans.
 ### Features
 This dashboard contains interactive charts and graphs.
 These interactive visuallizations allow users to gain valuable insights from the data.
@@ -16,10 +16,5 @@ This data was visualized using Microsoft Excel.
 
 
 ###### Insights
+The sales trend shows that September and October are the best month for the business.Hence, more effort should be put in place in ensuring adequate product availability and improved logistics during these months.The most productive Sales Rep is Mike while Nicole is the least productive.Hence, Mike should be considered indispensable for the company's restructuring and lay off plan.The products (Quad and Bellen) have consistently generated the highest revenue from 2015-2017.The western region generated the highest revenue with 43% of the total sales.
 
-Insights from the data shows that Nicole is the least productive sales rep, Hence she should take more courses on marketing and customer relations.If Nicole improves after taking these courses ,it would in turn boost sales revenue.Julie should also be awarded and promoted as this will create healthy competion amongst the sales rep making everyone to strive better. This will  in turn boost revenue.
-
-Also, survey could be carried out to know why (*sunbell) has extremely low sales.Could it be that consumers no longer like the brand?Should the  brand be replaced with other fast rising brands?Could it be that sales reps do not have enough knowledge about the product? If the cause of the low sales is fixed through this survey ,it will in turn improve Revenue
-
-In Addition,the analysis shows the trend of low sales from January to July, Can the marketing team do more adverts at this time?, Can we have discount sales during this period?
-![image](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/332853c9-43d6-4e08-aec1-2f1271507581)
