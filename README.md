@@ -1,5 +1,5 @@
 
-# BENGO MANUCFACTURING SALES DASHBOARD
+# BENGO MANUFACTURING SALES DASHBOARD
 ![image](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/6a4d6af3-8bc8-452d-aed2-8c085a256d86)
 
 
