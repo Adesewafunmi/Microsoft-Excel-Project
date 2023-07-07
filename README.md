@@ -1,4 +1,5 @@
-![image](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/da492e8f-b58b-4996-a94e-2232bd5d2cf7)
+![image](https://github.com/Adesewafunmi/Microsoft-Excel-Project/assets/138725475/6a4d6af3-8bc8-452d-aed2-8c085a256d86)
+
 
 # Introduction
 This repository contains an Excel interactive dashboard showcasing visualization and insights of Bengo Manufaturing sales data for 2015-2017.The analysis was carried out to determine the trends and make data driven decisions to improve sales.
